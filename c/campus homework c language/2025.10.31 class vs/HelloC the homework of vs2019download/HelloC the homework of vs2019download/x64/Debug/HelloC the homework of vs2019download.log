@@ -1,0 +1,6 @@
+﻿  main.c
+G:\code with no chinese\campus homework c language\2025.10.31\HelloC the homework of vs2019download\HelloC the homework of vs2019download\main.c(1,9): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+      G:\code with no chinese\campus homework c language\2025.10.31\HelloC the homework of vs2019download\HelloC the homework of vs2019download\main.c(1,9):
+      之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  
+  HelloC the homework of vs2019download.vcxproj -> G:\code with no chinese\campus homework c language\2025.10.31\HelloC the homework of vs2019download\x64\Debug\HelloC the homework of vs2019download.exe
